@@ -7,5 +7,5 @@
 
   
   
-![Snake gif](https://github.com/aramattos/aramattos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/aramattos/aramattos/blob/output/github-contribution-grid-snake.svg)
 
