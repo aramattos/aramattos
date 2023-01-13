@@ -1,4 +1,6 @@
-Hi, My name is Lucas and im student- 👋 Hi, I’m @aramattos
-- 👀’m interested in create a big project 
-- 🌱 I’m currently learning all of is possible
-
+### Olá! Me chamo Lucas
+<div>
+<a href="https://github.com/aramattos">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username-aramattos&show_icons=true&theme=dracula&include_all_commits-true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-aramattos&layout-compact&langs_count=16&theme-dark"/>
+</div>
